@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Tarefa_oneShot.hex'
+elf = 'build/Tarefa_oneShot.elf'
