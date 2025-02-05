@@ -1,4 +1,4 @@
-# Projeto de Interrupções e Controle de LEDs com a Raspberry Pi Pico W 2040
+# Temporizador de um disparo (One Shot)
 
 O projeto foi desenvolvido no contexto da **Unidade 4 do Capítulo 4 do EmbarcaTech (TIC37)**, Programa de Residência Tecnológica.
 
