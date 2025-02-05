@@ -1,7 +1,5 @@
 # Temporizador de um disparo (One Shot)
 
-O projeto foi desenvolvido no contexto da **Unidade 4 do Capítulo 4 do EmbarcaTech (TIC37)**, Programa de Residência Tecnológica.
-
 ## Descrição
 Este projeto implementa um software que em conjunto com a placa de desenvolvimento BitDogLab faz com que 3 leds sejam acionados 
 e desligados individualmente através de um sistema de estados, simulando, assim, um sistema de alarme.
